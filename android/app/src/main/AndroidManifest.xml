@@ -3,7 +3,7 @@
     package="com.gallery.itpcchennaiapp">
 
     <application
-        android:label="itpc"
+        android:label="ITPC Chennai"
         android:icon="@mipmap/ic_launcher"
         tools:replace="android:label"
         >
