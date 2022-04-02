@@ -1113,13 +1113,13 @@ class UserFilterDemoState extends State<sellerdashbaord> {
 
                                                           Row(
                                                             children: [
-                                                              Image.asset('images/trusted.png', width: 50, height: 50,),
-                                                              Text('Trusted Seller',style: const TextStyle(
-                                                                  color: Colors.black,
-                                                                  fontSize: 12.0,
-                                                                  fontWeight: FontWeight.bold,
-                                                                  fontFamily: 'Noto Sans'
-                                                              ),),
+                                                             // Image.asset('images/trusted.png', width: 50, height: 50,),
+//                                                              Text('Trusted Seller',style: const TextStyle(
+//                                                                  color: Colors.black,
+//                                                                  fontSize: 12.0,
+//                                                                  fontWeight: FontWeight.bold,
+//                                                                  fontFamily: 'Noto Sans'
+//                                                              ),),
                                                             ],
                                                           )
 
